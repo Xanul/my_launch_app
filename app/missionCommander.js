@@ -1,6 +1,8 @@
 class MissionCommander{
-    constructor(name){
+    constructor(name, age, mission){
         this.name = name
+        this.age = age
+        this.mission = mission
     }
 }
 
